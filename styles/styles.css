@@ -1,0 +1,9 @@
+h1 {
+  font-style: bold;
+  background-color: lightgray;
+}
+
+tr {
+  background-color: lightblue;
+  font-style: underline;
+}
