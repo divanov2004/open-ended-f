@@ -5,5 +5,8 @@ h1 {
 
 tr {
   background-color: lightblue;
-  font-style: underline;
+}
+
+tr:hover {
+  text-decoration: underline;
 }
